@@ -2,5 +2,4 @@
 
 ## About
 
-* https://sora.asia
-* https://soras.trade
+* https://sora.asia/soranomics
